@@ -1,0 +1,20 @@
+.poke {
+   height: 112px;
+   width: 112px;
+}
+body {
+   color: red;
+   background-image: url('./background.jpg');
+   background-size: contain;
+   height: 100vh;
+   width: 100vw;
+   backround-repeat: no-repeat;
+   
+}
+
+.link-label {
+        color: #ffffff;
+        position: relative;
+        font-size: 1.3em; 
+        font-weight: 600;
+}
